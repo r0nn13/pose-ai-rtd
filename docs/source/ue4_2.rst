@@ -17,7 +17,6 @@ Install the PoseAILiveLink plugin from the Unreal Marketplace to the engine.
 Download the example project
 ----------------------------
 
-
 .. image:: https://static.wixstatic.com/media/9e8b9f_699df8f8f7614723a970128f74524216~mv2.jpg
    :target: https://static.wixstatic.com/media/9e8b9f_699df8f8f7614723a970128f74524216~mv2.jpg
    :alt: Sample project download
@@ -79,6 +78,7 @@ Open the PoseCamera app on your phone. Go to settings (gear icon):
 
 
 .. image:: https://static.wixstatic.com/media/9e8b9f_1e61a2749213404f9a25325d6dc5a061~mv2.jpg 
+   :width: 400
    :target: https://static.wixstatic.com/media/9e8b9f_1e61a2749213404f9a25325d6dc5a061~mv2.jpg 
    :alt: 
 
@@ -86,6 +86,7 @@ and input the IP address of the computer running the Unreal Engine:
 
 
 .. image:: https://static.wixstatic.com/media/9e8b9f_062bdd65dd7b443bb2d0f4637433810e~mv2.jpg 
+   :width: 400
    :target: https://static.wixstatic.com/media/9e8b9f_062bdd65dd7b443bb2d0f4637433810e~mv2.jpg
    :alt: 
 
@@ -97,8 +98,8 @@ Close settings on your phone. The app should show the IP address you entered at 
 
 .. image:: https://static.wixstatic.com/media/9e8b9f_91c61f9a691c4d7c8b8a869dee03737b~mv2.jpg
    :target: https://static.wixstatic.com/media/9e8b9f_91c61f9a691c4d7c8b8a869dee03737b~mv2.jpg 
+   :width: 400
    :alt: 
-
 
 
 .. image:: https://static.wixstatic.com/media/9e8b9f_f45ee5d084c14942835e3c033fc12745~mv2.jpg 
