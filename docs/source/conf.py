@@ -29,7 +29,17 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 
-html_theme = 'sphinx_rtd_theme'
+html_theme_options = {
+    'base_url': 'http://bashtage.github.io/sphinx-material/',
+    'repo_url': 'https://github.com/bashtage/sphinx-material/',
+    'repo_name': 'Material for Sphinx',
+    'google_analytics_account': 'UA-XXXXX',
+    'html_minify': True,
+    'css_minify': True,
+    'nav_title': 'Material Sphinx Demo',
+    'logo_icon': '&#xe869',
+    'globaltoc_depth': 2
+}
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
