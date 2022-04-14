@@ -37,8 +37,8 @@ Examine the key files for LiveLink
 Open the project in the Unreal Engine and launch the tutorial to see the key files for LiveLink highlighted. Examine the files and read the comments to learn how the components work for your own projects.
 
 
-.. image:: https://static.wixstatic.com/media/9e8b9f_3fd4692e852b4e8ba0916b33e30fe62c~mv2.jpg =600x
-   :target: https://static.wixstatic.com/media/9e8b9f_3fd4692e852b4e8ba0916b33e30fe62c~mv2.jpg =600x
+.. image:: https://static.wixstatic.com/media/9e8b9f_3fd4692e852b4e8ba0916b33e30fe62c~mv2.jpg
+   :target: https://static.wixstatic.com/media/9e8b9f_3fd4692e852b4e8ba0916b33e30fe62c~mv2.jpg
    :alt: 
 
 Note the location of the highlighted AnimBP files. You will need to set the LiveLink node in each of these files to use your phone source once you have connected (explained in a later step).
@@ -49,24 +49,24 @@ Add a PoseAI LiveLink source
 From the Unreal Engine menu select Window/LiveLink:
 
 
-.. image:: https://static.wixstatic.com/media/9e8b9f_19912bc1dc0646a19b2f2bb8d310c662~mv2.jpg =600x
-   :target: https://static.wixstatic.com/media/9e8b9f_19912bc1dc0646a19b2f2bb8d310c662~mv2.jpg =600x
+.. image:: https://static.wixstatic.com/media/9e8b9f_19912bc1dc0646a19b2f2bb8d310c662~mv2.jpg 
+   :target: https://static.wixstatic.com/media/9e8b9f_19912bc1dc0646a19b2f2bb8d310c662~mv2.jpg 
    :alt: 
 
 
 From the LiveLink popup window add a Source->Pose AI App. Try the default settings first. Use either "Room" mode or "Desktop" mode (highlighted in blue) to see how the two mannequins respond in the engine. We have provided blueprint demos for both modes:
 
 
-.. image:: https://static.wixstatic.com/media/9e8b9f_af2b35fb12cd4f01b60d5cb81a43de33~mv2.jpg =600x
-   :target: https://static.wixstatic.com/media/9e8b9f_af2b35fb12cd4f01b60d5cb81a43de33~mv2.jpg =600x
+.. image:: https://static.wixstatic.com/media/9e8b9f_af2b35fb12cd4f01b60d5cb81a43de33~mv2.jpg 
+   :target: https://static.wixstatic.com/media/9e8b9f_af2b35fb12cd4f01b60d5cb81a43de33~mv2.jpg
    :alt: 
 
 
 Click OK when ready. PoseAI Mobile should be added to the first panel of LiveLink:
 
 
-.. image:: https://static.wixstatic.com/media/9e8b9f_84dc85ac52694097b927997b9bb66647~mv2.jpg =600x
-   :target: https://static.wixstatic.com/media/9e8b9f_84dc85ac52694097b927997b9bb66647~mv2.jpg =600x
+.. image:: https://static.wixstatic.com/media/9e8b9f_84dc85ac52694097b927997b9bb66647~mv2.jpg
+   :target: https://static.wixstatic.com/media/9e8b9f_84dc85ac52694097b927997b9bb66647~mv2.jpg 
    :alt: 
 
 
@@ -78,15 +78,15 @@ Connect Pose Camera on your phone
 Open the PoseCamera app on your phone. Go to settings (gear icon):
 
 
-.. image:: https://static.wixstatic.com/media/9e8b9f_1e61a2749213404f9a25325d6dc5a061~mv2.jpg =x600
-   :target: https://static.wixstatic.com/media/9e8b9f_1e61a2749213404f9a25325d6dc5a061~mv2.jpg =x600
+.. image:: https://static.wixstatic.com/media/9e8b9f_1e61a2749213404f9a25325d6dc5a061~mv2.jpg 
+   :target: https://static.wixstatic.com/media/9e8b9f_1e61a2749213404f9a25325d6dc5a061~mv2.jpg 
    :alt: 
 
 and input the IP address of the computer running the Unreal Engine:
 
 
-.. image:: https://static.wixstatic.com/media/9e8b9f_062bdd65dd7b443bb2d0f4637433810e~mv2.jpg =x600
-   :target: https://static.wixstatic.com/media/9e8b9f_062bdd65dd7b443bb2d0f4637433810e~mv2.jpg =x600
+.. image:: https://static.wixstatic.com/media/9e8b9f_062bdd65dd7b443bb2d0f4637433810e~mv2.jpg 
+   :target: https://static.wixstatic.com/media/9e8b9f_062bdd65dd7b443bb2d0f4637433810e~mv2.jpg
    :alt: 
 
 
@@ -95,14 +95,14 @@ This can usually be found displayed in LiveLink (but if you have multiple adapte
 Close settings on your phone. The app should show the IP address you entered at the bottom of the main screen. You may be asked to rotate your phone sideways:
 
 
-.. image:: https://static.wixstatic.com/media/9e8b9f_91c61f9a691c4d7c8b8a869dee03737b~mv2.jpg =x600
-   :target: https://static.wixstatic.com/media/9e8b9f_91c61f9a691c4d7c8b8a869dee03737b~mv2.jpg =x600
+.. image:: https://static.wixstatic.com/media/9e8b9f_91c61f9a691c4d7c8b8a869dee03737b~mv2.jpg
+   :target: https://static.wixstatic.com/media/9e8b9f_91c61f9a691c4d7c8b8a869dee03737b~mv2.jpg 
    :alt: 
 
 
 
-.. image:: https://static.wixstatic.com/media/9e8b9f_f45ee5d084c14942835e3c033fc12745~mv2.jpg =600x
-   :target: https://static.wixstatic.com/media/9e8b9f_f45ee5d084c14942835e3c033fc12745~mv2.jpg =600x
+.. image:: https://static.wixstatic.com/media/9e8b9f_f45ee5d084c14942835e3c033fc12745~mv2.jpg 
+   :target: https://static.wixstatic.com/media/9e8b9f_f45ee5d084c14942835e3c033fc12745~mv2.jpg 
    :alt: 
 
 
@@ -118,15 +118,15 @@ Once connected the phone app should offer "Tap to Stream". Tap and the phone sho
 Within Unreal you should see your phone's name in the bottom LiveLink panel and will show green when it is streaming detected poses.
 
 
-.. image:: https://static.wixstatic.com/media/9e8b9f_2100fafdfd984dbc976f81aa7b0d5152~mv2.jpg =600x
-   :target: https://static.wixstatic.com/media/9e8b9f_2100fafdfd984dbc976f81aa7b0d5152~mv2.jpg =600x
+.. image:: https://static.wixstatic.com/media/9e8b9f_2100fafdfd984dbc976f81aa7b0d5152~mv2.jpg 
+   :target: https://static.wixstatic.com/media/9e8b9f_2100fafdfd984dbc976f81aa7b0d5152~mv2.jpg 
    :alt: 
 
 If the light shows yellow it means the phone has not detected your pose. For Room or Portrait ensure the full body, head to feet, is visible. For Desktop mode ensure the camera can see the head to pelvis and ideally both elbows. The segmented human icon overlaying camera preview turns blue when a subject is visible and shows which limbs are currently poseable - if it is grey you need to reposition the camera or the person:
 
 
-.. image:: https://static.wixstatic.com/media/9e8b9f_bc65ceb289134b998add660f01b3cb10~mv2.png =600x
-   :target: https://static.wixstatic.com/media/9e8b9f_bc65ceb289134b998add660f01b3cb10~mv2.png =600x
+.. image:: https://static.wixstatic.com/media/9e8b9f_bc65ceb289134b998add660f01b3cb10~mv2.png 
+   :target: https://static.wixstatic.com/media/9e8b9f_bc65ceb289134b998add660f01b3cb10~mv2.png 
    :alt: 
 
 
@@ -136,15 +136,15 @@ Animate the two mannequins
 Finally you need to select your phone in the two animation blueprints, LiveLink_Desktop_AnimBP and LiveLink_FullBody_AnimBP. Click on "Compile" to recompile the blueprint and you should see the animation live in preview and now in the editor.
 
 
-.. image:: https://static.wixstatic.com/media/9e8b9f_073a2fdc6e814b7fa83959eb17f39cd5~mv2.jpg =600x
-   :target: https://static.wixstatic.com/media/9e8b9f_073a2fdc6e814b7fa83959eb17f39cd5~mv2.jpg =600x
+.. image:: https://static.wixstatic.com/media/9e8b9f_073a2fdc6e814b7fa83959eb17f39cd5~mv2.jpg
+   :target: https://static.wixstatic.com/media/9e8b9f_073a2fdc6e814b7fa83959eb17f39cd5~mv2.jpg
    :alt: 
 
 The two mannequins should now animate in the editor. The green circled one is set for full body animation (i.e. Room mode). While in dekstop mode you will notice the legs do the splits (zero transform is default). The red circled one is set to use upper body animations (i.e. Desktop mode), and use a default animation for the legs.
 
 
-.. image:: https://static.wixstatic.com/media/9e8b9f_698da6103d4d4c4d9054d7780e43897c~mv2.jpg =600x
-   :target: https://static.wixstatic.com/media/9e8b9f_698da6103d4d4c4d9054d7780e43897c~mv2.jpg =600x
+.. image:: https://static.wixstatic.com/media/9e8b9f_698da6103d4d4c4d9054d7780e43897c~mv2.jpg 
+   :target: https://static.wixstatic.com/media/9e8b9f_698da6103d4d4c4d9054d7780e43897c~mv2.jpg 
    :alt: 
 
 
