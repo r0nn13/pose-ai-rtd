@@ -107,8 +107,8 @@ In the components panel click on Add Component and add the LiveLink Skeletal Ani
 -------------------------------------------------
 
 
-.. image:: https://static.wixstatic.com/media/9e8b9f_ec07e43c85ca44868bb35d8c9e009c93~mv2.png =600x
-   :target: https://static.wixstatic.com/media/9e8b9f_ec07e43c85ca44868bb35d8c9e009c93~mv2.png =600x
+.. image:: https://static.wixstatic.com/media/9e8b9f_ec07e43c85ca44868bb35d8c9e009c93~mv2.png 
+   :target: https://static.wixstatic.com/media/9e8b9f_ec07e43c85ca44868bb35d8c9e009c93~mv2.png
    :alt: 
 
 If you are using Desktop camera mode, Pose Camera will only stream the upper body. You can use blend pose to create the appropriate animation for the lower body, for example idle standing or a sitting animation. If the stream is in mirror mode, you will likely want to rotate the lower body by 180 degrees as well.
