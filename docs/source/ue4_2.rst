@@ -104,6 +104,7 @@ Close settings on your phone. The app should show the IP address you entered at 
 
 .. image:: https://static.wixstatic.com/media/9e8b9f_f45ee5d084c14942835e3c033fc12745~mv2.jpg 
    :target: https://static.wixstatic.com/media/9e8b9f_f45ee5d084c14942835e3c033fc12745~mv2.jpg 
+   :height: 200
    :alt: 
 
 
@@ -128,6 +129,7 @@ If the light shows yellow it means the phone has not detected your pose. For Roo
 
 .. image:: https://static.wixstatic.com/media/9e8b9f_bc65ceb289134b998add660f01b3cb10~mv2.png 
    :target: https://static.wixstatic.com/media/9e8b9f_bc65ceb289134b998add660f01b3cb10~mv2.png 
+   :height: 200
    :alt: 
 
 
