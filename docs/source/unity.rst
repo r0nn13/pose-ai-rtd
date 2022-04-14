@@ -90,7 +90,7 @@ Close settings on your phone. The app should show the IP address you entered at 
 
 .. image:: https://static.wixstatic.com/media/9e8b9f_f45ee5d084c14942835e3c033fc12745~mv2.jpg 
    :target: https://static.wixstatic.com/media/9e8b9f_f45ee5d084c14942835e3c033fc12745~mv2.jpg 
-   :width: 200px
+   :height: 200px
    :alt: 
 
 Tap to connect. When successful connected the phone app should display "Unreal LiveLink" in place of the IP address, and say "tap to stream". Tap to begin the stream and the app will switch to camera mode.
