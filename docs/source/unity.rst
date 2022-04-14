@@ -64,16 +64,16 @@ Connect Pose Camera on your phone
 Open the PoseCamera app on your phone. Go to settings (gear icon):
 
 
-.. image:: https://static.wixstatic.com/media/9e8b9f_1e61a2749213404f9a25325d6dc5a061~mv2.jpg =x600
-   :target: https://static.wixstatic.com/media/9e8b9f_1e61a2749213404f9a25325d6dc5a061~mv2.jpg =x600
+.. image:: https://static.wixstatic.com/media/9e8b9f_1e61a2749213404f9a25325d6dc5a061~mv2.jpg 
+   :target: https://static.wixstatic.com/media/9e8b9f_1e61a2749213404f9a25325d6dc5a061~mv2.jpg 
    :alt: 
 
 
 and input the IP address of the computer running the Unreal Engine:
 
 
-.. image:: https://static.wixstatic.com/media/9e8b9f_062bdd65dd7b443bb2d0f4637433810e~mv2.jpg =x600
-   :target: https://static.wixstatic.com/media/9e8b9f_062bdd65dd7b443bb2d0f4637433810e~mv2.jpg =x600
+.. image:: https://static.wixstatic.com/media/9e8b9f_062bdd65dd7b443bb2d0f4637433810e~mv2.jpg 
+   :target: https://static.wixstatic.com/media/9e8b9f_062bdd65dd7b443bb2d0f4637433810e~mv2.jpg 
    :alt: 
 
 This can usually be found displayed in LiveLink (but if you have multiple adapters this may not be correct). **Make sure your phone and the computer are on the same local network.**
@@ -81,14 +81,14 @@ This can usually be found displayed in LiveLink (but if you have multiple adapte
 Close settings on your phone. The app should show the IP address you entered at the bottom of the main screen. You may be asked to rotate your phone sideways:
 
 
-.. image:: https://static.wixstatic.com/media/9e8b9f_91c61f9a691c4d7c8b8a869dee03737b~mv2.jpg =x600
-   :target: https://static.wixstatic.com/media/9e8b9f_91c61f9a691c4d7c8b8a869dee03737b~mv2.jpg =x600
+.. image:: https://static.wixstatic.com/media/9e8b9f_91c61f9a691c4d7c8b8a869dee03737b~mv2.jpg 
+   :target: https://static.wixstatic.com/media/9e8b9f_91c61f9a691c4d7c8b8a869dee03737b~mv2.jpg 
    :alt: 
 
 
 
-.. image:: https://static.wixstatic.com/media/9e8b9f_f45ee5d084c14942835e3c033fc12745~mv2.jpg =600x
-   :target: https://static.wixstatic.com/media/9e8b9f_f45ee5d084c14942835e3c033fc12745~mv2.jpg =600x
+.. image:: https://static.wixstatic.com/media/9e8b9f_f45ee5d084c14942835e3c033fc12745~mv2.jpg 
+   :target: https://static.wixstatic.com/media/9e8b9f_f45ee5d084c14942835e3c033fc12745~mv2.jpg 
    :alt: 
 
 Tap to connect. When successful connected the phone app should display "Unreal LiveLink" in place of the IP address, and say "tap to stream". Tap to begin the stream and the app will switch to camera mode.
