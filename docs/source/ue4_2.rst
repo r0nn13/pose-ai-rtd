@@ -9,8 +9,8 @@ Install Unreal Engine 4.26 on your desktop.
 Install the PoseAILiveLink plugin from the Unreal Marketplace to the engine.
 
 
-.. image:: https://static.wixstatic.com/media/9e8b9f_0cf3c2501f684f5bb1182555adaa0a6d~mv2.jpg =600x
-   :target: https://static.wixstatic.com/media/9e8b9f_0cf3c2501f684f5bb1182555adaa0a6d~mv2.jpg =600x
+.. image:: https://static.wixstatic.com/media/9e8b9f_0cf3c2501f684f5bb1182555adaa0a6d~mv2.jpg
+   :target: https://static.wixstatic.com/media/9e8b9f_0cf3c2501f684f5bb1182555adaa0a6d~mv2.jpg
    :alt: Install UE4 plugin
 
 
@@ -18,15 +18,15 @@ Download the example project
 ----------------------------
 
 
-.. image:: https://static.wixstatic.com/media/9e8b9f_699df8f8f7614723a970128f74524216~mv2.jpg =600x
-   :target: https://static.wixstatic.com/media/9e8b9f_699df8f8f7614723a970128f74524216~mv2.jpg =600x
+.. image:: https://static.wixstatic.com/media/9e8b9f_699df8f8f7614723a970128f74524216~mv2.jpg
+   :target: https://static.wixstatic.com/media/9e8b9f_699df8f8f7614723a970128f74524216~mv2.jpg
    :alt: Sample project download
 
 Download the file, unzip and add it to your Unreal projects directory.
 
 
-.. image:: https://static.wixstatic.com/media/9e8b9f_dbba9cdee4784288bffc43d928a3c0e9~mv2.jpg =600x
-   :target: https://static.wixstatic.com/media/9e8b9f_dbba9cdee4784288bffc43d928a3c0e9~mv2.jpg =600x
+.. image:: https://static.wixstatic.com/media/9e8b9f_dbba9cdee4784288bffc43d928a3c0e9~mv2.jpg 
+   :target: https://static.wixstatic.com/media/9e8b9f_dbba9cdee4784288bffc43d928a3c0e9~mv2.jpg
    :alt: Sample project download
 
 Open the project from the Epic Games / Unreal Engine project launcher.
