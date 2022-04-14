@@ -78,7 +78,7 @@ Open the PoseCamera app on your phone. Go to settings (gear icon):
 
 
 .. image:: https://static.wixstatic.com/media/9e8b9f_1e61a2749213404f9a25325d6dc5a061~mv2.jpg 
-   :width: 400
+   :width: 200
    :target: https://static.wixstatic.com/media/9e8b9f_1e61a2749213404f9a25325d6dc5a061~mv2.jpg 
    :alt: 
 
@@ -86,7 +86,7 @@ and input the IP address of the computer running the Unreal Engine:
 
 
 .. image:: https://static.wixstatic.com/media/9e8b9f_062bdd65dd7b443bb2d0f4637433810e~mv2.jpg 
-   :width: 400
+   :width: 200
    :target: https://static.wixstatic.com/media/9e8b9f_062bdd65dd7b443bb2d0f4637433810e~mv2.jpg
    :alt: 
 
@@ -98,7 +98,7 @@ Close settings on your phone. The app should show the IP address you entered at 
 
 .. image:: https://static.wixstatic.com/media/9e8b9f_91c61f9a691c4d7c8b8a869dee03737b~mv2.jpg
    :target: https://static.wixstatic.com/media/9e8b9f_91c61f9a691c4d7c8b8a869dee03737b~mv2.jpg 
-   :width: 400
+   :width: 200
    :alt: 
 
 
