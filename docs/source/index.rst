@@ -2,7 +2,7 @@
 Welcome to the PoseAI documentation!
 *****
 
-**PoseAI** allows you to easily add state-of-the-art pose estimation functionality to your games and applications.
+`Pose AI <https://www.poseai.co.uk/>`_ allows you to easily add state-of-the-art pose estimation functionality to your games and applications.
 
 This is a complete guide for using PoseAI with UE4, UE5, Unity or via the developers' API.
 
